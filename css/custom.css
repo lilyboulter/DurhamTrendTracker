@@ -84,7 +84,12 @@ th {
 	;
 }
 
+.col-md-2 img {
 
+	width: 40px;
+	height: auto;
+
+}
 
 
 
