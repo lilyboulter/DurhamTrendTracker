@@ -1,0 +1,44 @@
+body {
+	background-color: white;
+	font-family: helvetica; 
+}
+
+.page-header {
+	background-color: white;
+}
+
+.Topshop img {
+	width: 160px;
+}
+
+.Topshop {
+	background-color: #f9e6ff;
+}
+
+.Topshop h2 {
+	text-align: center
+}
+
+.NewLook img {
+	width: 160px;
+}
+
+.NewLook {
+	background-color: #e6faff;
+}
+
+.NewLook h2 {
+	text-align: center
+}
+
+.HandM img {
+	width: 160px;
+}
+
+.HandM {
+	background-color: #ffffcc;
+}
+
+.HandM h2 {
+	text-align: center
+}
