@@ -4,7 +4,15 @@ body {
 }
 
 .page-header {
-	background-color: white;
+	background: url(headerimage.jpg);
+}
+
+.page-header h1 {
+	font-weight: lighter;
+}
+
+img {
+	border-radius: 20px;
 }
 
 .Topshop img {
@@ -42,3 +50,50 @@ body {
 .HandM h2 {
 	text-align: center
 }
+
+
+.col-md-2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.col-md-2 li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+.col-md-2 li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+th, td {
+	padding: 100px
+	text: center;
+	text-align: center;
+}
+
+th {
+	width: 33%
+	;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
