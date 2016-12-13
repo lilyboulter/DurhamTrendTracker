@@ -4,7 +4,15 @@ body {
 }
 
 .page-header {
-	background-color: white;
+	background: url(headerimage.jpg);
+}
+
+.page-header h1 {
+	font-weight: lighter;
+}
+
+img {
+	border-radius: 20px;
 }
 
 .Topshop img {
@@ -65,7 +73,16 @@ body {
     color: white;
 }
 
+th, td {
+	padding: 100px
+	text: center;
+	text-align: center;
+}
 
+th {
+	width: 33%
+	;
+}
 
 
 
